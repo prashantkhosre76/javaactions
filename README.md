@@ -1,3 +1,3 @@
 # java_maven_project
 
-Hi, good morning
+Hello, How are you?
